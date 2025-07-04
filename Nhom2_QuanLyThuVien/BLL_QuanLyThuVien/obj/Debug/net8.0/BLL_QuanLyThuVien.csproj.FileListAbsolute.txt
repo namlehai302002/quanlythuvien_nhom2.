@@ -1,0 +1,17 @@
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\BLL_QuanLyThuVien.deps.json
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\BLL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\BLL_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\DAL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\DTO_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\DAL_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\bin\Debug\net8.0\DTO_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.csproj.AssemblyReference.cache
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.AssemblyInfoInputs.cache
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.AssemblyInfo.cs
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_Quan.CF408FCB.Up2Date
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\refint\BLL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\BLL_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\BLL_QuanLyThuVien\obj\Debug\net8.0\ref\BLL_QuanLyThuVien.dll

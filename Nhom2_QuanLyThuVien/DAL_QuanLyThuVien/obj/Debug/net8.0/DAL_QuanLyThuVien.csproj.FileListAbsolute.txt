@@ -1,0 +1,15 @@
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\bin\Debug\net8.0\DAL_QuanLyThuVien.deps.json
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\bin\Debug\net8.0\DAL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\bin\Debug\net8.0\DAL_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\bin\Debug\net8.0\DTO_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\bin\Debug\net8.0\DTO_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.csproj.AssemblyReference.cache
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.AssemblyInfoInputs.cache
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.AssemblyInfo.cs
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_Quan.06F7498D.Up2Date
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\refint\DAL_QuanLyThuVien.dll
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\DAL_QuanLyThuVien.pdb
+C:\SUMMER2025\Nhom2_QuanLyThuVien\Nhom2_QuanLyThuVien\DAL_QuanLyThuVien\obj\Debug\net8.0\ref\DAL_QuanLyThuVien.dll
