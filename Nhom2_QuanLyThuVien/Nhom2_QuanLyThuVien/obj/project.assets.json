@@ -1873,23 +1873,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Users\\Hoang Nam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\GUI_QuanLyThuVien.csproj",
+      "projectUniqueName": "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\GUI_QuanLyThuVien.csproj",
       "projectName": "GUI_QuanLyThuVien",
-      "projectPath": "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\GUI_QuanLyThuVien.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\obj\\",
+      "projectPath": "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\GUI_QuanLyThuVien.csproj",
+      "packagesPath": "C:\\Users\\Hoang Nam\\.nuget\\packages\\",
+      "outputPath": "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hoang Nam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1904,14 +1904,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\BLL_QuanLyThuVien\\BLL_QuanLyThuVien.csproj": {
-              "projectPath": "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\BLL_QuanLyThuVien\\BLL_QuanLyThuVien.csproj"
+            "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\BLL_QuanLyThuVien\\BLL_QuanLyThuVien.csproj": {
+              "projectPath": "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\BLL_QuanLyThuVien\\BLL_QuanLyThuVien.csproj"
             },
-            "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\DTO_QuanLyThuVien\\DTO_QuanLyThuVien.csproj": {
-              "projectPath": "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\DTO_QuanLyThuVien\\DTO_QuanLyThuVien.csproj"
+            "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\DTO_QuanLyThuVien\\DTO_QuanLyThuVien.csproj": {
+              "projectPath": "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\DTO_QuanLyThuVien\\DTO_QuanLyThuVien.csproj"
             },
-            "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\UTIL_QuanLyThuVien\\UTIL_QuanLyThuVien.csproj": {
-              "projectPath": "C:\\SUMMER2025\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\UTIL_QuanLyThuVien\\UTIL_QuanLyThuVien.csproj"
+            "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\UTIL_QuanLyThuVien\\UTIL_QuanLyThuVien.csproj": {
+              "projectPath": "D:\\Nhom2_QuanLyThuVien\\Nhom2_QuanLyThuVien\\UTIL_QuanLyThuVien\\UTIL_QuanLyThuVien.csproj"
             }
           }
         }
@@ -1926,7 +1926,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1956,7 +1956,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

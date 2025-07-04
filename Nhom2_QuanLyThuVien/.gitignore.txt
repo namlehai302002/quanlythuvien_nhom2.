@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# VS generated files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Others
+*.cache
+*.tmp
